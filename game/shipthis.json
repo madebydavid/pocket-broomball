@@ -1,0 +1,22 @@
+{
+  "project": {
+    "id": "b5f60095-60b6-4c0f-8c35-302ae4fd6f89",
+    "name": "Pocket Broomball",
+    "details": {
+      "gameEngine": "godot",
+      "iosBundleId": "com.hello.broomball",
+      "gameEngineVersion": "3.X"
+    },
+    "createdAt": "2024-10-01T15:33:05.592+01:00",
+    "updatedAt": "2024-10-01T16:57:34.629+01:00"
+  },
+  "shippedFilesGlobs": [
+    "**/*"
+  ],
+  "ignoredFilesGlobs": [
+    ".git",
+    ".gitignore",
+    "shipthis.json",
+    "shipthis-*.zip"
+  ]
+}
